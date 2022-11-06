@@ -7,8 +7,8 @@ const BINDING := "localhost"
 const PORT := 8060
 const BINDING_DESKTOP := "127.0.0.1"
 const auth_server := "https://id.twitch.tv/oauth2/authorize"
-const client_ID := "3ur3qi65ktn5x8gqb5lq4wk7cbmos4"
-const client_secret := "8qw07ww3hsyitrzhxynhesyp373rl8"
+const client_ID := "Your client ID"
+const client_secret := "Your client secret"
 const token_req := "https://id.twitch.tv/oauth2/token"
 var refresh_token
 var redirect_uri := ""
